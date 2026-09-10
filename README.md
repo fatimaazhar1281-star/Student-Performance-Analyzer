@@ -96,7 +96,7 @@ class_records
 └── ...
 ```
 
-This structure allows the program to associate each student with their individual subject marks and later perform class-level aggregation.
+This structure allows the program to associate each student with their individual subject marks and later perform class-level aggregation.n.
 
 ## How It Works
 
